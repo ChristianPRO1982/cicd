@@ -48,5 +48,5 @@ jobs:
       run: |
         npx semantic-release
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Authentification pour publier sur GitHub
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Authentification pour publier sur GitHub
         
