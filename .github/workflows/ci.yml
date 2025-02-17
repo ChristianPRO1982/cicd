@@ -21,7 +21,7 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Install dependencies
+    - name: Install dependencies for python
       run: |
         python -m venv venv
         source venv/bin/activate
@@ -40,7 +40,7 @@ jobs:
       with:
         node-version: '20'  # Utiliser une version stable de Node.js
 
-    - name: Install dependencies
+    - name: Install dependencies for npm
       run: |
         npm install
 
@@ -48,5 +48,5 @@ jobs:
       run: |
         npx semantic-release
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Authentification pour publier sur GitHub
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Authentification pour publier sur GitHub
         
