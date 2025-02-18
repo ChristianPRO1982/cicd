@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/ChristianPRO1982/cicd/compare/v2.2.0...v3.0.0) (2025-02-18)
+
+
+### Features
+
+* GITHUB_TOKEN ([7d8ddb0](https://github.com/ChristianPRO1982/cicd/commit/7d8ddb09474775862b0cc0d982b7fa02d87363d2))
+
+
+### BREAKING CHANGES
+
+* `secret` GITHUB_TOKEN
+
 # [2.2.0](https://github.com/ChristianPRO1982/cicd/compare/v2.1.1...v2.2.0) (2025-02-18)
 
 
