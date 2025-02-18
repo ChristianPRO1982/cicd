@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/ChristianPRO1982/cicd/compare/v1.2.2...v2.0.0) (2025-02-18)
+
+
+### Features
+
+* allow provided config object to extend other configs ([bb7225f](https://github.com/ChristianPRO1982/cicd/commit/bb7225fd2734fb84f6a65388ed2379de0592f04a))
+
+
+### BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
 ## [1.2.2](https://github.com/ChristianPRO1982/cicd/compare/v1.2.1...v1.2.2) (2025-02-18)
 
 
