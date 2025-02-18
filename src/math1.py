@@ -8,4 +8,4 @@ def sub(x, y):
 
 # multiplications
 def mul(x, y):
-    return x * y*1
+    return x * y
