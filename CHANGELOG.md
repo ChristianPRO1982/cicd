@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/ChristianPRO1982/cicd/compare/v2.1.0...v2.1.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* multiplication par zéro ([849a887](https://github.com/ChristianPRO1982/cicd/commit/849a88733138b2c21c8ae0293c52d4425996f350))
+
 # [2.1.0](https://github.com/ChristianPRO1982/cicd/compare/v2.0.0...v2.1.0) (2025-02-18)
 
 
