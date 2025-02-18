@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ChristianPRO1982/cicd/compare/v1.0.0...v1.1.0) (2025-02-18)
+
+
+### Features
+
+* sub ([d4aa60d](https://github.com/ChristianPRO1982/cicd/commit/d4aa60d295cb125684727610c015387821a4f41a))
+
 # 1.0.0 (2025-02-17)
 
 
