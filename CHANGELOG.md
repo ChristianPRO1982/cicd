@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/ChristianPRO1982/cicd/compare/v2.0.0...v2.1.0) (2025-02-18)
+
+
+### Features
+
+* readme ([40ffad4](https://github.com/ChristianPRO1982/cicd/commit/40ffad42fefa7fa2afddd719690c6aa8d740c9b8))
+
 # [2.0.0](https://github.com/ChristianPRO1982/cicd/compare/v1.2.2...v2.0.0) (2025-02-18)
 
 
