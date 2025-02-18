@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/ChristianPRO1982/cicd/compare/v1.2.1...v1.2.2) (2025-02-18)
+
+
+### Bug Fixes
+
+* test ([6d5deac](https://github.com/ChristianPRO1982/cicd/commit/6d5deac30e18c4fedafe3c24e71990dc540e1414))
+
 ## [1.2.1](https://github.com/ChristianPRO1982/cicd/compare/v1.2.0...v1.2.1) (2025-02-18)
 
 
