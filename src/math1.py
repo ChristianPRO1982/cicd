@@ -5,3 +5,7 @@ def add(x, y):
 # soustraction
 def sub(x, y):
     return x - y
+
+# multiplications
+def mul(x, y):
+    return x * y

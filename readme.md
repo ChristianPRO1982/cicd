@@ -4,9 +4,11 @@
 Pour que Semantic Release fonctionne correctement, il faut que tu utilises des messages de commit bien formatés selon une convention. La convention la plus courante est Conventional Commits.
 
 ### Voici un exemple de règles de commit
-- fix: correct typo in the code — Pour un correctif de bug (incrémentation du patch).
-- feat: add new login feature — Pour une nouvelle fonctionnalité (incrémentation de la version mineure).
-- BREAKING CHANGE: refactor login flow — Pour des changements incompatibles avec la version précédente (incrémentation de la version majeure).
+- feat : Nouvelle fonctionnalité (pour un changement majeur ou mineur).
+- fix : Correction de bug.
+- docs : Modifications de la documentation.
+- chore : Changements mineurs, de style ou de configuration.
+- BREAKING CHANGE : Pour une modification majeure (la version augmente de manière significative, ex. de 1.x à 2.0).
 
 ### lint
 Tu peux également configurer un commit linter pour t'assurer que les messages de commit respectent cette convention. Cela peut être fait avec un package comme commitlint et husky pour les hooks Git.
