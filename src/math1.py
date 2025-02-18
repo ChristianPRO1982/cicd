@@ -6,6 +6,6 @@ def add(x, y):
 def sub(x, y):
     return x - y
 
-# multiplication
+# multiplications
 def mul(x, y):
     return x * y
