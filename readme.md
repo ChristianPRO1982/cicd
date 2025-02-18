@@ -9,7 +9,7 @@ Pour que Semantic Release fonctionne correctement, il faut que tu utilises des m
 - docs: Modifications de la documentation.
 - chore: Changements mineurs, de style ou de configuration.
 - BREAKING CHANGE : Pour une modification majeure (la version augmente de manière significative, ex. de 1.x à 2.0).
-d
+
 ### lint
 Tu peux également configurer un commit linter pour t'assurer que les messages de commit respectent cette convention. Cela peut être fait avec un package comme commitlint et husky pour les hooks Git.
 
