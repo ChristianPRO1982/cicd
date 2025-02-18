@@ -1,3 +1,62 @@
+## [3.0.1](https://github.com/ChristianPRO1982/cicd/compare/v3.0.0...v3.0.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* division oubliée ([c6aee26](https://github.com/ChristianPRO1982/cicd/commit/c6aee262fd897aea21a203a80688391e619b17da))
+
+# [3.0.0](https://github.com/ChristianPRO1982/cicd/compare/v2.2.0...v3.0.0) (2025-02-18)
+
+
+### Features
+
+* GITHUB_TOKEN ([7d8ddb0](https://github.com/ChristianPRO1982/cicd/commit/7d8ddb09474775862b0cc0d982b7fa02d87363d2))
+
+
+### BREAKING CHANGES
+
+* `secret` GITHUB_TOKEN
+
+# [2.2.0](https://github.com/ChristianPRO1982/cicd/compare/v2.1.1...v2.2.0) (2025-02-18)
+
+
+### Features
+
+* division ([c584e1a](https://github.com/ChristianPRO1982/cicd/commit/c584e1a7e8771a274440cdefa54b8b7bc23977f0))
+
+## [2.1.1](https://github.com/ChristianPRO1982/cicd/compare/v2.1.0...v2.1.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* multiplication par zéro ([849a887](https://github.com/ChristianPRO1982/cicd/commit/849a88733138b2c21c8ae0293c52d4425996f350))
+
+# [2.1.0](https://github.com/ChristianPRO1982/cicd/compare/v2.0.0...v2.1.0) (2025-02-18)
+
+
+### Features
+
+* readme ([40ffad4](https://github.com/ChristianPRO1982/cicd/commit/40ffad42fefa7fa2afddd719690c6aa8d740c9b8))
+
+# [2.0.0](https://github.com/ChristianPRO1982/cicd/compare/v1.2.2...v2.0.0) (2025-02-18)
+
+
+### Features
+
+* allow provided config object to extend other configs ([bb7225f](https://github.com/ChristianPRO1982/cicd/commit/bb7225fd2734fb84f6a65388ed2379de0592f04a))
+
+
+### BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
+## [1.2.2](https://github.com/ChristianPRO1982/cicd/compare/v1.2.1...v1.2.2) (2025-02-18)
+
+
+### Bug Fixes
+
+* test ([6d5deac](https://github.com/ChristianPRO1982/cicd/commit/6d5deac30e18c4fedafe3c24e71990dc540e1414))
+
 ## [1.2.1](https://github.com/ChristianPRO1982/cicd/compare/v1.2.0...v1.2.1) (2025-02-18)
 
 
