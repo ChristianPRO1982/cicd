@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/ChristianPRO1982/cicd/compare/v3.0.0...v3.0.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* division oubliée ([c6aee26](https://github.com/ChristianPRO1982/cicd/commit/c6aee262fd897aea21a203a80688391e619b17da))
+
 # [3.0.0](https://github.com/ChristianPRO1982/cicd/compare/v2.2.0...v3.0.0) (2025-02-18)
 
 
