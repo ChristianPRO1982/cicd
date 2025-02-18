@@ -1,3 +1,19 @@
+## [1.2.1](https://github.com/ChristianPRO1982/cicd/compare/v1.2.0...v1.2.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* commentaires ([6363709](https://github.com/ChristianPRO1982/cicd/commit/63637092b509a3ea5dd0c34cb8da61712f05879f))
+* commentaires ([c592fe1](https://github.com/ChristianPRO1982/cicd/commit/c592fe14fbd15882449525c420e1725e1f9d7590))
+* commentaires ([6f34867](https://github.com/ChristianPRO1982/cicd/commit/6f348673e2ca1af82f09735a0dea3b002a1379a8))
+
+# [1.2.0](https://github.com/ChristianPRO1982/cicd/compare/v1.1.0...v1.2.0) (2025-02-18)
+
+
+### Features
+
+* sub ([16f7b95](https://github.com/ChristianPRO1982/cicd/commit/16f7b951e8ef960625003e835254b8a32391ee30))
+
 # [1.1.0](https://github.com/ChristianPRO1982/cicd/compare/v1.0.0...v1.1.0) (2025-02-18)
 
 
